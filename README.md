@@ -16,7 +16,7 @@ A clean, modern cross-platform mobile application built with **React Native**, *
 
 Here is a quick walkthrough of the app in action:
 
-https://github.com/your-username/Bohanos/raw/main/assets/videos/login-flow-demo.mp4
+https://github.com/Bohanos/raw/main/assets/videos/login-flow-demo.mp4
 ---
 
 ## 🚀 Getting Started
