@@ -30,7 +30,7 @@ Make sure you have Node.js, npm, and the Expo CLI installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com//my-first-app.git
+   git clone https://github.com/Bohanos/my-first-app.git
    ```
 
 2. Navigate to the project directory:
